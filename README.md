@@ -1,2 +1,2 @@
 # linux-Scanner
-Linux remote privilege escalation vector scanner.
+Linux remote privilege escalation vector scanner for CTFs.
